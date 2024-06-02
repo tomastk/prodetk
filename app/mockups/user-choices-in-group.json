@@ -1,0 +1,410 @@
+[
+    {
+        "match": {
+            "homeTeam": {
+                "id": "7e1af26d-c5bd-47cc-898e-40230610b430",
+                "name": "Perú",
+                "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Logotipo_de_la_Federaci%C3%B3n_Peruana_de_F%C3%BAtbol.svg/1200px-Logotipo_de_la_Federaci%C3%B3n_Peruana_de_F%C3%BAtbol.svg.png"
+            },
+            "awayTeam": {
+                "id": "b2bc1489-366d-494f-9e72-26a347d6066d",
+                "name": "Chile",
+                "imageUrl": "https://static.wikia.nocookie.net/logopedia/images/b/b9/FFC_1910.png/revision/latest?cb=20161117162244&path-prefix=es"
+            },
+            "matchDate": "2024-06-21",
+            "matchId": "d05a5467-191c-4239-9ea6-c2809e8aaeea"
+        },
+        "choice": "DRAW"
+    },
+    {
+        "match": {
+            "homeTeam": {
+                "id": "7e1af26d-c5bd-47cc-898e-40230610b430",
+                "name": "Perú",
+                "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Logotipo_de_la_Federaci%C3%B3n_Peruana_de_F%C3%BAtbol.svg/1200px-Logotipo_de_la_Federaci%C3%B3n_Peruana_de_F%C3%BAtbol.svg.png"
+            },
+            "awayTeam": {
+                "id": "44e64c20-0a56-4bcd-8ab1-d0c0ea60af1d",
+                "name": "Canadá",
+                "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/af/Canada-Badge-Outline.png"
+            },
+            "matchDate": "2024-06-25",
+            "matchId": "51507eb8-8ef8-4ad2-8f54-74c75015cc63"
+        },
+        "choice": "DRAW"
+    },
+    {
+        "match": {
+            "homeTeam": {
+                "id": "39088aba-63cc-4f9c-86af-dec4d1e633f8",
+                "name": "Colombia",
+                "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Escudo_de_la_Federaci%C3%B3n_Colombiana_de_F%C3%BAtbol.png"
+            },
+            "awayTeam": {
+                "id": "7a8dc17d-0e98-4d53-84f5-9bbd679c248d",
+                "name": "Paraguay",
+                "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Asociaci%C3%B3n_Paraguaya_de_F%C3%BAtbol_logo.svg/640px-Asociaci%C3%B3n_Paraguaya_de_F%C3%BAtbol_logo.svg.png"
+            },
+            "matchDate": "2024-06-24",
+            "matchId": "26bac35b-f2a9-434f-ae40-c2032a0e87b2"
+        },
+        "choice": "DRAW"
+    },
+    {
+        "match": {
+            "homeTeam": {
+                "id": "b21b34b9-c88d-4a55-8a14-83abd756c5eb",
+                "name": "Venezuela",
+                "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Logo_escudo_FVF%2C_2023.svg/1736px-Logo_escudo_FVF%2C_2023.svg.png"
+            },
+            "awayTeam": {
+                "id": "496782d1-23ec-49a1-b738-90949e887519",
+                "name": "México",
+                "imageUrl": "https://1.bp.blogspot.com/-D6t71qWBWvo/X_oj8Q_ZtnI/AAAAAAABiG0/O0k0doHgKOcBaGTKMOHz2j6SF5Op37GmQCLcBGAsYHQ/s512/MEX.png"
+            },
+            "matchDate": "2024-06-26",
+            "matchId": "aaffa933-879b-447d-b5bb-6aa129f896f4"
+        },
+        "choice": "DRAW"
+    },
+    {
+        "match": {
+            "homeTeam": {
+                "id": "48a87b4c-8c4e-4fa7-835d-ef324ae32b96",
+                "name": "Brasil",
+                "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Brazilian_Football_Confederation_logo.svg/1200px-Brazilian_Football_Confederation_logo.svg.png"
+            },
+            "awayTeam": {
+                "id": "39088aba-63cc-4f9c-86af-dec4d1e633f8",
+                "name": "Colombia",
+                "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Escudo_de_la_Federaci%C3%B3n_Colombiana_de_F%C3%BAtbol.png"
+            },
+            "matchDate": "2024-07-02",
+            "matchId": "2065de06-acd5-4b63-b879-f94a4932448c"
+        },
+        "choice": "DRAW"
+    },
+    {
+        "match": {
+            "homeTeam": {
+                "id": "39088aba-63cc-4f9c-86af-dec4d1e633f8",
+                "name": "Colombia",
+                "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Escudo_de_la_Federaci%C3%B3n_Colombiana_de_F%C3%BAtbol.png"
+            },
+            "awayTeam": {
+                "id": "05ca7179-6d17-4d48-8e15-1d0f630cff6d",
+                "name": "Costa Rica",
+                "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Costa_Rica_national_football_team_logo.svg/1200px-Costa_Rica_national_football_team_logo.svg.png"
+            },
+            "matchDate": "2024-06-28",
+            "matchId": "68471e2c-2455-4454-b597-7909db510f0f"
+        },
+        "choice": "DRAW"
+    },
+    {
+        "match": {
+            "homeTeam": {
+                "id": "0a5d70f4-5cf0-44be-870c-80cc4c7ba93b",
+                "name": "Argentina",
+                "imageUrl": "https://www.afa.com.ar/upload/torneo/Placas%20categor%C3%ADas/afa3estrellas.png"
+            },
+            "awayTeam": {
+                "id": "b2bc1489-366d-494f-9e72-26a347d6066d",
+                "name": "Chile",
+                "imageUrl": "https://static.wikia.nocookie.net/logopedia/images/b/b9/FFC_1910.png/revision/latest?cb=20161117162244&path-prefix=es"
+            },
+            "matchDate": "2024-06-25",
+            "matchId": "5a3e8f49-1b6e-41a1-9e74-0d2fdd205d7e"
+        },
+        "choice": "DRAW"
+    },
+    {
+        "match": {
+            "homeTeam": {
+                "id": "16de7edb-523a-43a0-984c-74e5efda9226",
+                "name": "Ecuador",
+                "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Logo_de_la_Federaci%C3%B3n_Ecuatoriana_de_F%C3%BAtbol_%282%29.svg/1668px-Logo_de_la_Federaci%C3%B3n_Ecuatoriana_de_F%C3%BAtbol_%282%29.svg.png"
+            },
+            "awayTeam": {
+                "id": "3cea3be1-0da3-417a-9950-532b9fc7a227",
+                "name": "Jamaica",
+                "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Jamaica_FA.svg/1200px-Jamaica_FA.svg.png"
+            },
+            "matchDate": "2024-06-26",
+            "matchId": "4caf45da-80a1-49ef-8978-2da330f7fa9b"
+        },
+        "choice": "DRAW"
+    },
+    {
+        "match": {
+            "homeTeam": {
+                "id": "3cea3be1-0da3-417a-9950-532b9fc7a227",
+                "name": "Jamaica",
+                "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Jamaica_FA.svg/1200px-Jamaica_FA.svg.png"
+            },
+            "awayTeam": {
+                "id": "b21b34b9-c88d-4a55-8a14-83abd756c5eb",
+                "name": "Venezuela",
+                "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Logo_escudo_FVF%2C_2023.svg/1736px-Logo_escudo_FVF%2C_2023.svg.png"
+            },
+            "matchDate": "2024-06-30",
+            "matchId": "838ab721-fe03-458f-82c9-e34d585888df"
+        },
+        "choice": "DRAW"
+    },
+    {
+        "match": {
+            "homeTeam": {
+                "id": "0a3bd65e-138b-4544-bff2-405f944989f9",
+                "name": "Bolivia",
+                "imageUrl": "https://www.fbf.com.bo/img/escudo.png"
+            },
+            "awayTeam": {
+                "id": "45a938c3-d320-4a89-bf75-4baab00098c0",
+                "name": "Panamá",
+                "imageUrl": "https://i.pinimg.com/originals/48/e7/cd/48e7cda6d491bb1423ff2e92b864bae5.png"
+            },
+            "matchDate": "2024-07-01",
+            "matchId": "df219d5a-6f7a-45e3-bb02-a5e3e06743b3"
+        },
+        "choice": "DRAW"
+    },
+    {
+        "match": {
+            "homeTeam": {
+                "id": "48a87b4c-8c4e-4fa7-835d-ef324ae32b96",
+                "name": "Brasil",
+                "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Brazilian_Football_Confederation_logo.svg/1200px-Brazilian_Football_Confederation_logo.svg.png"
+            },
+            "awayTeam": {
+                "id": "05ca7179-6d17-4d48-8e15-1d0f630cff6d",
+                "name": "Costa Rica",
+                "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Costa_Rica_national_football_team_logo.svg/1200px-Costa_Rica_national_football_team_logo.svg.png"
+            },
+            "matchDate": "2024-06-24",
+            "matchId": "124852d1-ac40-4ac1-b455-c7aee58ab9f9"
+        },
+        "choice": "DRAW"
+    },
+    {
+        "match": {
+            "homeTeam": {
+                "id": "496782d1-23ec-49a1-b738-90949e887519",
+                "name": "México",
+                "imageUrl": "https://1.bp.blogspot.com/-D6t71qWBWvo/X_oj8Q_ZtnI/AAAAAAABiG0/O0k0doHgKOcBaGTKMOHz2j6SF5Op37GmQCLcBGAsYHQ/s512/MEX.png"
+            },
+            "awayTeam": {
+                "id": "16de7edb-523a-43a0-984c-74e5efda9226",
+                "name": "Ecuador",
+                "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Logo_de_la_Federaci%C3%B3n_Ecuatoriana_de_F%C3%BAtbol_%282%29.svg/1668px-Logo_de_la_Federaci%C3%B3n_Ecuatoriana_de_F%C3%BAtbol_%282%29.svg.png"
+            },
+            "matchDate": "2024-06-30",
+            "matchId": "c519d508-3ca3-4416-8dc3-5de66d3349f3"
+        },
+        "choice": "DRAW"
+    },
+    {
+        "match": {
+            "homeTeam": {
+                "id": "16de7edb-523a-43a0-984c-74e5efda9226",
+                "name": "Ecuador",
+                "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Logo_de_la_Federaci%C3%B3n_Ecuatoriana_de_F%C3%BAtbol_%282%29.svg/1668px-Logo_de_la_Federaci%C3%B3n_Ecuatoriana_de_F%C3%BAtbol_%282%29.svg.png"
+            },
+            "awayTeam": {
+                "id": "b21b34b9-c88d-4a55-8a14-83abd756c5eb",
+                "name": "Venezuela",
+                "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Logo_escudo_FVF%2C_2023.svg/1736px-Logo_escudo_FVF%2C_2023.svg.png"
+            },
+            "matchDate": "2024-06-22",
+            "matchId": "533383c6-87b1-4635-bc53-c745e836afa3"
+        },
+        "choice": "DRAW"
+    },
+    {
+        "match": {
+            "homeTeam": {
+                "id": "cd56add5-bb8e-4f53-9e1e-41bb6d80c505",
+                "name": "Uruguay",
+                "imageUrl": "https://seeklogo.com/images/A/asociacion-uruguaya-de-futbol-logo-8AE2DF5DB7-seeklogo.com.png"
+            },
+            "awayTeam": {
+                "id": "45a938c3-d320-4a89-bf75-4baab00098c0",
+                "name": "Panamá",
+                "imageUrl": "https://i.pinimg.com/originals/48/e7/cd/48e7cda6d491bb1423ff2e92b864bae5.png"
+            },
+            "matchDate": "2024-06-23",
+            "matchId": "cc4c6c0c-d740-4463-bf55-ea480da44f5c"
+        },
+        "choice": "HOME"
+    },
+    {
+        "match": {
+            "homeTeam": {
+                "id": "45a938c3-d320-4a89-bf75-4baab00098c0",
+                "name": "Panamá",
+                "imageUrl": "https://i.pinimg.com/originals/48/e7/cd/48e7cda6d491bb1423ff2e92b864bae5.png"
+            },
+            "awayTeam": {
+                "id": "5e5e7951-f1d5-42f4-8694-b574288bc9ed",
+                "name": "Estados Unidos",
+                "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/United_States_Soccer_Federation_logo_2016.svg/1200px-United_States_Soccer_Federation_logo_2016.svg.png"
+            },
+            "matchDate": "2024-06-27",
+            "matchId": "25393d6d-3579-4a27-b312-97d124caac65"
+        },
+        "choice": "HOME"
+    },
+    {
+        "match": {
+            "homeTeam": {
+                "id": "0a5d70f4-5cf0-44be-870c-80cc4c7ba93b",
+                "name": "Argentina",
+                "imageUrl": "https://www.afa.com.ar/upload/torneo/Placas%20categor%C3%ADas/afa3estrellas.png"
+            },
+            "awayTeam": {
+                "id": "44e64c20-0a56-4bcd-8ab1-d0c0ea60af1d",
+                "name": "Canadá",
+                "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/af/Canada-Badge-Outline.png"
+            },
+            "matchDate": "2024-06-20",
+            "matchId": "b9e49a84-501c-4771-affb-4a9b9fe45cb5"
+        },
+        "choice": "HOME"
+    },
+    {
+        "match": {
+            "homeTeam": {
+                "id": "496782d1-23ec-49a1-b738-90949e887519",
+                "name": "México",
+                "imageUrl": "https://1.bp.blogspot.com/-D6t71qWBWvo/X_oj8Q_ZtnI/AAAAAAABiG0/O0k0doHgKOcBaGTKMOHz2j6SF5Op37GmQCLcBGAsYHQ/s512/MEX.png"
+            },
+            "awayTeam": {
+                "id": "3cea3be1-0da3-417a-9950-532b9fc7a227",
+                "name": "Jamaica",
+                "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Jamaica_FA.svg/1200px-Jamaica_FA.svg.png"
+            },
+            "matchDate": "2024-06-22",
+            "matchId": "edf206f5-adc6-43ce-ab43-f13388add162"
+        },
+        "choice": "HOME"
+    },
+    {
+        "match": {
+            "homeTeam": {
+                "id": "5e5e7951-f1d5-42f4-8694-b574288bc9ed",
+                "name": "Estados Unidos",
+                "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/United_States_Soccer_Federation_logo_2016.svg/1200px-United_States_Soccer_Federation_logo_2016.svg.png"
+            },
+            "awayTeam": {
+                "id": "cd56add5-bb8e-4f53-9e1e-41bb6d80c505",
+                "name": "Uruguay",
+                "imageUrl": "https://seeklogo.com/images/A/asociacion-uruguaya-de-futbol-logo-8AE2DF5DB7-seeklogo.com.png"
+            },
+            "matchDate": "2024-07-01",
+            "matchId": "ba29765e-d11a-4c50-8870-412ead8c895c"
+        },
+        "choice": "HOME"
+    },
+    {
+        "match": {
+            "homeTeam": {
+                "id": "7a8dc17d-0e98-4d53-84f5-9bbd679c248d",
+                "name": "Paraguay",
+                "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Asociaci%C3%B3n_Paraguaya_de_F%C3%BAtbol_logo.svg/640px-Asociaci%C3%B3n_Paraguaya_de_F%C3%BAtbol_logo.svg.png"
+            },
+            "awayTeam": {
+                "id": "48a87b4c-8c4e-4fa7-835d-ef324ae32b96",
+                "name": "Brasil",
+                "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Brazilian_Football_Confederation_logo.svg/1200px-Brazilian_Football_Confederation_logo.svg.png"
+            },
+            "matchDate": "2024-06-28",
+            "matchId": "a6540aa7-13ab-428a-a798-01879eed9677"
+        },
+        "choice": "HOME"
+    },
+    {
+        "match": {
+            "homeTeam": {
+                "id": "cd56add5-bb8e-4f53-9e1e-41bb6d80c505",
+                "name": "Uruguay",
+                "imageUrl": "https://seeklogo.com/images/A/asociacion-uruguaya-de-futbol-logo-8AE2DF5DB7-seeklogo.com.png"
+            },
+            "awayTeam": {
+                "id": "0a3bd65e-138b-4544-bff2-405f944989f9",
+                "name": "Bolivia",
+                "imageUrl": "https://www.fbf.com.bo/img/escudo.png"
+            },
+            "matchDate": "2024-06-27",
+            "matchId": "70172ff9-5842-49c4-9132-f492aa2ecc58"
+        },
+        "choice": "HOME"
+    },
+    {
+        "match": {
+            "homeTeam": {
+                "id": "44e64c20-0a56-4bcd-8ab1-d0c0ea60af1d",
+                "name": "Canadá",
+                "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/af/Canada-Badge-Outline.png"
+            },
+            "awayTeam": {
+                "id": "b2bc1489-366d-494f-9e72-26a347d6066d",
+                "name": "Chile",
+                "imageUrl": "https://static.wikia.nocookie.net/logopedia/images/b/b9/FFC_1910.png/revision/latest?cb=20161117162244&path-prefix=es"
+            },
+            "matchDate": "2024-06-29",
+            "matchId": "60bb85c0-2547-4bef-bb60-8ff153027522"
+        },
+        "choice": "HOME"
+    },
+    {
+        "match": {
+            "homeTeam": {
+                "id": "0a5d70f4-5cf0-44be-870c-80cc4c7ba93b",
+                "name": "Argentina",
+                "imageUrl": "https://www.afa.com.ar/upload/torneo/Placas%20categor%C3%ADas/afa3estrellas.png"
+            },
+            "awayTeam": {
+                "id": "7e1af26d-c5bd-47cc-898e-40230610b430",
+                "name": "Perú",
+                "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Logotipo_de_la_Federaci%C3%B3n_Peruana_de_F%C3%BAtbol.svg/1200px-Logotipo_de_la_Federaci%C3%B3n_Peruana_de_F%C3%BAtbol.svg.png"
+            },
+            "matchDate": "2024-06-29",
+            "matchId": "41dd26cf-80db-4ffa-87e4-f59c7514609f"
+        },
+        "choice": "HOME"
+    },
+    {
+        "match": {
+            "homeTeam": {
+                "id": "5e5e7951-f1d5-42f4-8694-b574288bc9ed",
+                "name": "Estados Unidos",
+                "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/United_States_Soccer_Federation_logo_2016.svg/1200px-United_States_Soccer_Federation_logo_2016.svg.png"
+            },
+            "awayTeam": {
+                "id": "0a3bd65e-138b-4544-bff2-405f944989f9",
+                "name": "Bolivia",
+                "imageUrl": "https://www.fbf.com.bo/img/escudo.png"
+            },
+            "matchDate": "2024-06-23",
+            "matchId": "26d10296-9ed0-4a86-8475-af70282fd00a"
+        },
+        "choice": "DRAW"
+    },
+    {
+        "match": {
+            "homeTeam": {
+                "id": "05ca7179-6d17-4d48-8e15-1d0f630cff6d",
+                "name": "Costa Rica",
+                "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Costa_Rica_national_football_team_logo.svg/1200px-Costa_Rica_national_football_team_logo.svg.png"
+            },
+            "awayTeam": {
+                "id": "7a8dc17d-0e98-4d53-84f5-9bbd679c248d",
+                "name": "Paraguay",
+                "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Asociaci%C3%B3n_Paraguaya_de_F%C3%BAtbol_logo.svg/640px-Asociaci%C3%B3n_Paraguaya_de_F%C3%BAtbol_logo.svg.png"
+            },
+            "matchDate": "2024-07-02",
+            "matchId": "8149db47-0e9d-4b65-833e-b77268fe7f8b"
+        },
+        "choice": "DRAW"
+    }
+]

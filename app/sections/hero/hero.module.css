@@ -1,0 +1,46 @@
+.container {
+  max-width: 80%;
+  margin: auto;
+}
+
+.ball {
+  border-radius: 15px;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+.heroTitle {
+  font-size: 3.5rem;
+  line-height: 1.1;
+  font-weight: 800;
+  letter-spacing: -0.05rem;
+  text-align: left;
+}
+
+@media screen and (max-width: 768px) {
+  .container {
+    gap: 50px;
+  }
+  .heroTitle {
+    font-size: 2.5rem;
+  }
+  .ball {
+    max-width: 100%;
+  }
+}
+
+.darkblue {
+  color: var(--dark-blue);
+}
+
+.description {
+  font-size: 1.5rem;
+  line-height: 2rem;
+  text-align: left;
+  font-weight: 300;
+  letter-spacing: -0.05rem;
+  background-color: var(--dark-blue);
+  color: white;
+  padding: 10px;
+  width: fit-content;
+  border-radius: 10px;
+}
