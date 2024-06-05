@@ -1,6 +1,7 @@
 import { Title } from "@/app/components";
 import Button from "@/app/components/button";
 import LinkButton from "@/app/components/button/LinkButton";
+import GroupList from "@/app/components/grouplist/GroupList";
 import { Competences, GroupsCompetenceResponse } from "@/app/models/list";
 import { group } from "console";
 import Link from "next/link";
@@ -25,20 +26,11 @@ const Competence = ({ competence, groups }: CompetenceProps) => {
 
       <Title title="Grupos" />
 
-      {groups.length === 0 && <b>No hay grupos en esta competencia</b>}
-
-      {groups.map((group) => {
-        return (
-          <>
-            <Link href={`/groups/${group.id}`} className="group spaced-content">
-              {group.privateGroup && <div className="tag">Privado</div>}
-              <h2>{group.name}</h2>
-              {group.members.length} jugadores
-            </Link>
-          </>
-        );
-      })}
-
+      {groups.length === 0 ? (
+        <b>No hay grupos en esta competencia</b>
+      ) : (
+        <GroupList groups={groups} />
+      )}
       <LinkButton cta="Crear grupo" href="#" />
     </div>
   );

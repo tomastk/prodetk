@@ -21,7 +21,12 @@ export default function RootLayout({
   return (
     <html lang="en">
       <head>
-        <Link href={favicon32x32.src} rel="icon" />
+        <link
+          rel="icon"
+          type="image/png"
+          sizes="32x32"
+          href={favicon32x32.src}
+        />
       </head>
       <body className={`${jura.className} spaced-content`}>
         <NextTopLoader />
