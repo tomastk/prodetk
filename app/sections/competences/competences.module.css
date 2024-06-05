@@ -1,0 +1,13 @@
+.competence {
+  display: flex;
+  gap: 20px;
+  background-color: white;
+  padding: 20px;
+  border-radius: 10px;
+  transition: 0.3s;
+  flex-direction: column;
+}
+
+.competence:hover {
+  transform: scale(1.05);
+}
