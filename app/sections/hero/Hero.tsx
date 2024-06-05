@@ -1,5 +1,7 @@
 import styles from "./hero.module.css";
 import ball from "@/public/prode-predictions.png";
+import LinkButton from "@/app/components/button/LinkButton";
+import Image from "next/image";
 
 const Hero = () => {
   return (
@@ -11,10 +13,15 @@ const Hero = () => {
           importantes del <br />
           <b className={styles.darkblue}>fútbol</b>
         </h1>
-        <p className={styles.description}>¡Sos de los primeros en jugar!</p>
+        <LinkButton cta="Comenzar a jugar" href="/login"></LinkButton>
       </div>
-
-      <img className={styles.ball} src={ball.src} alt="" />
+      <Image
+        src={ball.src}
+        alt="ball"
+        width={400}
+        height={400}
+        className={styles.ball}
+      />
     </div>
   );
 };
