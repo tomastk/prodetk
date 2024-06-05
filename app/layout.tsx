@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import { Jura } from "next/font/google";
 import "./globals.css";
 import { Header } from "./components";
+import NextTopLoader from "nextjs-toploader";
 
 const jura = Jura({ subsets: ["latin"] });
 
@@ -18,6 +19,7 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body className={`${jura.className} spaced-content`}>
+        <NextTopLoader />
         <Header />
         {children}
       </body>
