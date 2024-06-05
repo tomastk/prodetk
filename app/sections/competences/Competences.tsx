@@ -5,6 +5,7 @@ import { CompetenceResponse } from "@/app/models/list";
 import { CompetencesService } from "@/app/services/CompetencesService.class";
 import Link from "next/link";
 import { useEffect, useState } from "react";
+import styles from "./competences.module.css";
 
 const Competences = () => {
   const [competencesList, setCompetencesList] = useState<CompetenceResponse>(
@@ -29,8 +30,12 @@ const Competences = () => {
       <div className="competences">
         {competencesList.map((competence) => {
           return (
-            <Link href={`/competences/${competence.id}`}>
+            <Link
+              href={`/competences/${competence.id}`}
+              className={styles.competence}
+            >
               <img src={competence.imageUrl} alt={competence.name} />
+              <h3>{competence.name}</h3>
             </Link>
           );
         })}

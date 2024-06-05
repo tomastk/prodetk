@@ -1,5 +1,6 @@
 import { Title } from "@/app/components";
 import Button from "@/app/components/button";
+import LinkButton from "@/app/components/button/LinkButton";
 import { Competences, GroupsCompetenceResponse } from "@/app/models/list";
 import { group } from "console";
 import Link from "next/link";
@@ -38,7 +39,7 @@ const Competence = ({ competence, groups }: CompetenceProps) => {
         );
       })}
 
-      <Button cta={"Crear grupo"} link="#" />
+      <LinkButton cta="Crear grupo" href="#" />
     </div>
   );
 };
