@@ -1,14 +1,14 @@
 type ButtonProps = {
   cta: string;
-  link: string;
+  onClick?: () => void;
 };
 import styles from "./button.module.css";
 
 const Button = (props: ButtonProps) => {
   return (
-    <a href={props.link} className={styles.button}>
+    <button className={styles.button} onClick={props.onClick}>
       {props.cta}
-    </a>
+    </button>
   );
 };
 export default Button;
